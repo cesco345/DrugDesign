@@ -73,5 +73,4 @@ In this notebook, we analyzed a dataset of BACE1 (Beta-Secretase 1) inhibitors, 
 10. **Propose Structural Modifications**
     - Based on all analyses, suggest specific structural modifications to improve both potency and drug-likeness of promising compounds.
 
-By following these next steps, we can further refine our understanding of the BACE1 inhibitors in our dataset and potentially identify novel lead compounds for Alzheimer's disease treatment. This comprehensive approach combines computational methods with medicinal chemistry principles to guide the drug discovery process efficiently.
 
