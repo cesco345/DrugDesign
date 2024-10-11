@@ -1,0 +1,15 @@
+name	smarts
+nitro	[N+](=O)[O-]
+phosphate	[P](=O)([OH])([OH])[OH]
+sulfate	[S](=O)(=O)([OH])[OH]
+2-halopyridine	c1([F,Cl,Br,I])ncccc1
+thiol	[SH]
+alkyl_chain_7_or_more	[CH2][CH2][CH2][CH2][CH2][CH2][CH2]
+aldehyde	[CH]=O
+imine	[CH]=[NH]
+quaternary_ammonium	[N+]
+epoxide	C1OC1
+sulfonyl_halide	S(=O)(=O)[F,Cl,Br,I]
+beta_haloketone	C(=O)C[F,Cl,Br,I]
+acyl_halide	C(=O)[F,Cl,Br,I]
+michael_acceptor	C=CC=O
