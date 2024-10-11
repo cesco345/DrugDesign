@@ -7,27 +7,27 @@ In this notebook, we analyzed a dataset of BACE1 (Beta-Secretase 1) inhibitors, 
 
 1. **Data Loading and Preparation**
    - We loaded the BACE1 inhibitor dataset, which contained molecular structures (as SMILES) and activity data (pIC50).
-   - Rationale: BACE1 is a key enzyme in the formation of amyloid-β plaques, a hallmark of Alzheimer's disease. Inhibiting BACE1 is a promising therapeutic strategy.
+   - BACE1 is a key enzyme in the formation of amyloid-β plaques, a hallmark of Alzheimer's disease. Inhibiting BACE1 is a promising therapeutic strategy.
 
 2. **Calculation of Molecular Properties**
    - We used RDKit to calculate key molecular properties: molecular weight, number of hydrogen bond donors/acceptors, and LogP.
-   - Rationale: These properties are crucial in determining a compound's drug-likeness and potential for oral bioavailability.
+   - These properties are crucial in determining a compound's drug-likeness and potential for oral bioavailability.
 
 3. **Application of Lipinski's Rule of Five**
    - We assessed each compound against Ro5 criteria: MW ≤ 500, HBD ≤ 5, HBA ≤ 10, LogP ≤ 5.
-   - Rationale: Ro5 is a widely used heuristic to predict the likelihood of a compound being orally active in humans. Compounds that follow these rules are more likely to have good absorption and permeation.
+   - Ro5 is a widely used heuristic to predict the likelihood of a compound being orally active in humans. Compounds that follow these rules are more likely to have good absorption and permeation.
 
 4. **Druglikeness Scoring**
    - We created a simple scoring system based on Ro5 compliance.
-   - Rationale: This allows for a nuanced view of drug-likeness, recognizing that some successful drugs violate one or more of Lipinski's rules.
+   - This allows for a nuanced view of drug-likeness, recognizing that some successful drugs violate one or more of Lipinski's rules.
 
 5. **Analysis of Compliant vs. Non-Compliant Compounds**
    - We separated and analyzed Ro5-compliant and non-compliant compounds.
-   - Rationale: This comparison helps identify potential lead compounds and understand the trade-offs between optimal BACE1 inhibition and drug-like properties.
+   - This comparison helps identify potential lead compounds and understand the trade-offs between optimal BACE1 inhibition and drug-like properties.
 
 6. **Visualization of Top Compounds**
    - We generated 2D and 3D visualizations of top-scoring compounds.
-   - Rationale: Visual inspection of molecular structures can reveal important structural features that contribute to both activity and drug-likeness.
+   - Visual inspection of molecular structures can reveal important structural features that contribute to both activity and drug-likeness.
 
 ## Key Findings
 - We identified top compounds that balance good BACE1 inhibition (high pIC50) with favorable drug-like properties.
