@@ -44,12 +44,6 @@ We generated enrichment plots and calculated enrichment factors.
 
 Enrichment analysis helps us assess how well our virtual screening method performs compared to random selection. It quantifies our method's ability to identify active compounds early in the ranked list.
 
-## Key Findings
-
-1. [Insert key observations about the most similar compounds to verubecestat]
-2. [Comment on the performance of MACCS vs. Morgan fingerprints based on the enrichment plots]
-3. [Discuss the enrichment factors and what they reveal about the effectiveness of the virtual screening]
-
 ## Limitations
 
 1. This approach is biased towards compounds structurally similar to verubecestat and may miss novel scaffolds with BACE1 inhibitory activity.
