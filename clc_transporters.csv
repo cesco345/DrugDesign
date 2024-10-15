@@ -1,0 +1,484 @@
+pref_name,target_chembl_id,target_type,organism
+H(+)/Cl(-) exchange transporter 3,CHEMBL2401603,SINGLE PROTEIN,Homo sapiens
+Chloride transport protein 6,CHEMBL2176794,SINGLE PROTEIN,Mus musculus
+Chloride channel protein 2,CHEMBL1628478,SINGLE PROTEIN,Homo sapiens
+CLC chloride channel protein,CHEMBL2268011,SINGLE PROTEIN,Caenorhabditis elegans
+Chloride channel protein 1,CHEMBL4524038,SINGLE PROTEIN,Rattus norvegicus
+Calcium-activated chloride channel,CHEMBL2364708,PROTEIN FAMILY,Homo sapiens
+Equilibrative nucleoside transporter 1,CHEMBL1997,SINGLE PROTEIN,Homo sapiens
+Hexose transporter 1,CHEMBL4697,SINGLE PROTEIN,Plasmodium falciparum
+Transporter,CHEMBL6184,SINGLE PROTEIN,Rattus norvegicus
+Transporter,CHEMBL6197,SINGLE PROTEIN,Macaca mulatta
+Monoamine transporters; Norepininephrine & dopamine,CHEMBL2095175,SELECTIVITY GROUP,Rattus norvegicus
+Transporter,CHEMBL3886063,SINGLE PROTEIN,Rattus norvegicus
+Dopamine transporter,CHEMBL238,SINGLE PROTEIN,Homo sapiens
+Synaptic vesicular amine transporter,CHEMBL1893,SINGLE PROTEIN,Homo sapiens
+Synaptic vesicular amine transporter,CHEMBL4828,SINGLE PROTEIN,Rattus norvegicus
+Dopamine transporter,CHEMBL2799,SINGLE PROTEIN,Mus musculus
+Synaptic vesicular amine transporter,CHEMBL4271,SINGLE PROTEIN,Bos taurus
+Glucose transporter,CHEMBL2535,SINGLE PROTEIN,Homo sapiens
+Norepinephrine transporter,CHEMBL2370,SINGLE PROTEIN,Mus musculus
+Norepinephrine transporter,CHEMBL304,SINGLE PROTEIN,Rattus norvegicus
+Serotonin transporter,CHEMBL313,SINGLE PROTEIN,Rattus norvegicus
+Excitatory amino acid transporter 2,CHEMBL4973,SINGLE PROTEIN,Homo sapiens
+Dopamine transporter,CHEMBL338,SINGLE PROTEIN,Rattus norvegicus
+Dopamine transporter,CHEMBL2986,SINGLE PROTEIN,Bos taurus
+Serotonin transporter,CHEMBL5453,SINGLE PROTEIN,Macaca mulatta
+Dopamine transporter,CHEMBL5032,SINGLE PROTEIN,Macaca fascicularis
+Excitatory amino acid transporter 1,CHEMBL4190,SINGLE PROTEIN,Rattus norvegicus
+Excitatory amino acid transporter 4,CHEMBL3700,SINGLE PROTEIN,Rattus norvegicus
+Equilibrative nucleoside transporter 1,CHEMBL4604,SINGLE PROTEIN,Rattus norvegicus
+"Solute carrier family 2, facilitated glucose transporter member 5",CHEMBL5875,SINGLE PROTEIN,Homo sapiens
+Equilibrative nucleoside transporter 1,CHEMBL1287611,SINGLE PROTEIN,Mus musculus
+Equilibrative nucleoside transporter 2,CHEMBL1287614,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 6,CHEMBL1641347,SINGLE PROTEIN,Homo sapiens
+ATP binding cassette transporter Abc1p,CHEMBL1667673,SINGLE PROTEIN,Issatchenkia orientalis
+"ATP-binding cassette sub-family B member 6, mitochondrial",CHEMBL2007630,SINGLE PROTEIN,Homo sapiens
+"Solute carrier family 2, facilitated glucose transporter member 9",CHEMBL2052034,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 4,CHEMBL2073668,SINGLE PROTEIN,Homo sapiens
+Solute carrier organic anion transporter family member 1C1,CHEMBL2073688,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 1C1,CHEMBL2073697,SINGLE PROTEIN,Homo sapiens
+Monocarboxylate transporter 10,CHEMBL2073717,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 16,CHEMBL2073722,SINGLE PROTEIN,Homo sapiens
+Monoamine transporters; serotonin & dopamine,CHEMBL2094252,SELECTIVITY GROUP,Rattus norvegicus
+Monoamine transporters; serotonin & dopamine,CHEMBL2095201,SELECTIVITY GROUP,Homo sapiens
+Monoamine transporters; Norepinephrine & serotonin,CHEMBL2096672,SELECTIVITY GROUP,Rattus norvegicus
+Monoamine transporters; Norepinephrine & dopamine,CHEMBL2096990,SELECTIVITY GROUP,Homo sapiens
+Serotonin and norepinephrine transporters (SERT/NET),CHEMBL2111346,SELECTIVITY GROUP,Homo sapiens
+Urea transporter 1,CHEMBL2163171,SINGLE PROTEIN,Mus musculus
+Sodium-dependent multivitamin transporter,CHEMBL2176793,SINGLE PROTEIN,Rattus norvegicus
+Monoamine transporter,CHEMBL2363064,PROTEIN FAMILY,Homo sapiens
+Sodium-dependent neutral amino acid transporter B(0)AT2,CHEMBL3351189,SINGLE PROTEIN,Homo sapiens
+Glucose transporter,CHEMBL3431938,SINGLE PROTEIN,Leishmania mexicana
+Urea transporter 2,CHEMBL3739246,SINGLE PROTEIN,Rattus norvegicus
+Urea transporter 1,CHEMBL3739247,SINGLE PROTEIN,Rattus norvegicus
+Putative amino acid permease/transporter,CHEMBL4295536,SINGLE PROTEIN,Trypanosoma cruzi
+Thiamine transporter ThiT,CHEMBL4295631,SINGLE PROTEIN,Lactococcus lactis subsp. cremoris (strain MG1363)
+Synaptic vesicular amine transporter,CHEMBL4295886,SINGLE PROTEIN,Mus musculus
+"Solute carrier family 2, facilitated glucose transporter member 8",CHEMBL4295964,SINGLE PROTEIN,Homo sapiens
+Glutamate transporter homolog,CHEMBL4296295,SINGLE PROTEIN,Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 /NBRC 100139 / OT-3)
+Antigen peptide transporter 1/2,CHEMBL4523654,PROTEIN COMPLEX,Homo sapiens
+Energy-coupling factor transporter transmembrane protein EcfT,CHEMBL5169211,SINGLE PROTEIN,Lactobacillus casei
+Trehalose-binding lipoprotein LpqY,CHEMBL5169230,SINGLE PROTEIN,Mycobacterium tuberculosis
+Norepinephrine transporter,CHEMBL222,SINGLE PROTEIN,Homo sapiens
+Serotonin transporter,CHEMBL228,SINGLE PROTEIN,Homo sapiens
+Vesicular amine transporter 1,CHEMBL1838,SINGLE PROTEIN,Homo sapiens
+Vesicular acetylcholine transporter,CHEMBL3313,SINGLE PROTEIN,Torpedo californica
+Folate transporter 1,CHEMBL4833,SINGLE PROTEIN,Homo sapiens
+Oligopeptide transporter small intestine isoform,CHEMBL4605,SINGLE PROTEIN,Homo sapiens
+Thiamine transporter 1,CHEMBL3079,SINGLE PROTEIN,Homo sapiens
+Vesicular acetylcholine transporter,CHEMBL2125,SINGLE PROTEIN,Rattus norvegicus
+Creatine transporter,CHEMBL3814,SINGLE PROTEIN,Rattus norvegicus
+Multidrug translocase mdfA,CHEMBL4785,SINGLE PROTEIN,Escherichia coli K-12
+Betaine transporter,CHEMBL3715,SINGLE PROTEIN,Homo sapiens
+Excitatory amino acid transporter 3,CHEMBL2721,SINGLE PROTEIN,Homo sapiens
+Choline transporter,CHEMBL3013,SINGLE PROTEIN,Mus musculus
+Serotonin transporter,CHEMBL4642,SINGLE PROTEIN,Mus musculus
+Excitatory amino acid transporter 2,CHEMBL2900,SINGLE PROTEIN,Rattus norvegicus
+Sodium-dependent vitamin C transporter 2,CHEMBL3271,SINGLE PROTEIN,Homo sapiens
+Neutral amino acid transporter A,CHEMBL2315,SINGLE PROTEIN,Homo sapiens
+Ileal bile acid transporter,CHEMBL2778,SINGLE PROTEIN,Homo sapiens
+Vesicular acetylcholine transporter,CHEMBL4767,SINGLE PROTEIN,Homo sapiens
+Adenosine transporter 1,CHEMBL2601,SINGLE PROTEIN,Trypanosoma brucei
+L-type amino acid transporter 2,CHEMBL4301,SINGLE PROTEIN,Homo sapiens
+Nucleoside transporter 2,CHEMBL3697,SINGLE PROTEIN,Trypanosoma brucei brucei
+GABA transporter 2,CHEMBL4228,SINGLE PROTEIN,Mus musculus
+High-affinity choline transporter,CHEMBL4507,SINGLE PROTEIN,Homo sapiens
+Monocarboxylate transporter 1,CHEMBL4360,SINGLE PROTEIN,Homo sapiens
+"Oligopeptide transporter, kidney isoform",CHEMBL3325,SINGLE PROTEIN,Rattus norvegicus
+"Solute carrier family 2, facilitated glucose transporter member 1",CHEMBL5214,SINGLE PROTEIN,Rattus norvegicus
+"Solute carrier family 2, facilitated glucose transporter member 3",CHEMBL5215,SINGLE PROTEIN,Homo sapiens
+Sodium/nucleoside cotransporter 2,CHEMBL5780,SINGLE PROTEIN,Homo sapiens
+High affinity choline transporter 1,CHEMBL5797,SINGLE PROTEIN,Rattus norvegicus
+"Solute carrier family 2, facilitated glucose transporter member 2",CHEMBL5873,SINGLE PROTEIN,Homo sapiens
+"Solute carrier family 2, facilitated glucose transporter member 4",CHEMBL5874,SINGLE PROTEIN,Homo sapiens
+Cystine/glutamate transporter,CHEMBL1075149,SINGLE PROTEIN,Homo sapiens
+"Solute carrier family 2, facilitated glucose transporter member 4",CHEMBL1250410,SINGLE PROTEIN,Mus musculus
+Equilibrative nucleoside transporter 2,CHEMBL1287612,SINGLE PROTEIN,Mus musculus
+ATP-binding cassette sub-family B member 9,CHEMBL1293189,SINGLE PROTEIN,Homo sapiens
+Efflux transporter,CHEMBL1641337,SINGLE PROTEIN,Salmonella newport
+Solute carrier organic anion transporter family member 1B1,CHEMBL1697668,SINGLE PROTEIN,Homo sapiens
+Ammonium transporter MEP2,CHEMBL1741183,SINGLE PROTEIN,Saccharomyces cerevisiae S288c
+Solute carrier organic anion transporter family member 1B3,CHEMBL1743121,SINGLE PROTEIN,Homo sapiens
+Solute carrier organic anion transporter family member 2B1,CHEMBL1743124,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 15 member 2,CHEMBL1743125,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 3,CHEMBL1770033,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 6,CHEMBL1777665,SINGLE PROTEIN,Rattus norvegicus
+Chloroquine resistance transporter,CHEMBL1795182,SINGLE PROTEIN,Plasmodium falciparum
+Proton-coupled amino acid transporter 1,CHEMBL1914279,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 7,CHEMBL1955711,SINGLE PROTEIN,Homo sapiens
+Monocarboxylate transporter 4,CHEMBL2073663,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance associated protein,CHEMBL2073669,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 7,CHEMBL2073671,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 8,CHEMBL2073672,SINGLE PROTEIN,Mus musculus
+Solute carrier family 22 member 3,CHEMBL2073673,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 15 member 2,CHEMBL2073678,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 4A1,CHEMBL2073679,SINGLE PROTEIN,Homo sapiens
+Solute carrier organic anion transporter family member 3A1,CHEMBL2073685,SINGLE PROTEIN,Homo sapiens
+Ileal sodium/bile acid cotransporter,CHEMBL2073686,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier organic anion transporter family member 3A1,CHEMBL2073689,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 15 member 1,CHEMBL2073691,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier organic anion transporter family member 2A1,CHEMBL2073699,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 2A1,CHEMBL2073703,SINGLE PROTEIN,Homo sapiens
+Monocarboxylate transporter 2,CHEMBL2073704,SINGLE PROTEIN,Homo sapiens
+Ileal sodium/bile acid cotransporter,CHEMBL2073708,SINGLE PROTEIN,Mus musculus
+Monocarboxylate transporter 1,CHEMBL2073709,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 15 member 1,CHEMBL2073714,SINGLE PROTEIN,Mus musculus
+Monocarboxylate transporter 2,CHEMBL2073718,SINGLE PROTEIN,Rattus norvegicus
+Monocarboxylate transporter 8,CHEMBL2073720,SINGLE PROTEIN,Rattus norvegicus
+GABA transporter,CHEMBL2096685,PROTEIN FAMILY,Mus musculus
+GABA transporter,CHEMBL2111478,PROTEIN FAMILY,Rattus norvegicus
+Urea transporter 1,CHEMBL2390814,SINGLE PROTEIN,Homo sapiens
+"Solute carrier family 2, facilitated glucose transporter member 4",CHEMBL3286066,SINGLE PROTEIN,Rattus norvegicus
+Monocarboxylate transporter 3 (MCT 3),CHEMBL3308921,SINGLE PROTEIN,Homo sapiens
+Solute carrier organic anion transporter family member,CHEMBL3509590,SINGLE PROTEIN,Bos taurus
+Equilibrative nucleoside transporter 4,CHEMBL3509593,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 15 member 1,CHEMBL3509595,SINGLE PROTEIN,Oryctolagus cuniculus
+Equilibrative nucleoside transporter 2,CHEMBL3509606,SINGLE PROTEIN,Homo sapiens
+Amino acid transporter,CHEMBL3562161,SINGLE PROTEIN,Rattus norvegicus
+Acetyl-coenzyme A transporter 1,CHEMBL3638338,SINGLE PROTEIN,Homo sapiens
+Choline transporter-like protein 4,CHEMBL3713014,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 13 member 5,CHEMBL3769293,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 13 member 5,CHEMBL3769294,SINGLE PROTEIN,Mus musculus
+Solute carrier family 13 member 5,CHEMBL3769295,SINGLE PROTEIN,Rattus norvegicus
+Asc-type amino acid transporter 1,CHEMBL4105976,SINGLE PROTEIN,Rattus norvegicus
+Uric acid-xanthine permease,CHEMBL4295591,SINGLE PROTEIN,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL194 / M139) (Aspergillus nidulans)
+Putative amino acid transporter PAT12,CHEMBL4295611,SINGLE PROTEIN,Trypanosoma cruzi
+"Solute carrier family 2, facilitated glucose transporter member 2",CHEMBL4295714,SINGLE PROTEIN,Rattus norvegicus
+"Solute carrier family 2, facilitated glucose transporter member 14",CHEMBL4295906,SINGLE PROTEIN,Homo sapiens
+Antigen peptide transporter 1,CHEMBL4523275,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 26 member 6,CHEMBL4523388,SINGLE PROTEIN,Mus musculus
+Solute carrier family 40 member 1,CHEMBL4523462,SINGLE PROTEIN,Mus musculus
+Zinc transporter ZIP6,CHEMBL4523581,SINGLE PROTEIN,Homo sapiens
+Adenosine Transporter,CHEMBL4524127,PROTEIN FAMILY,Cavia porcellus
+Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),CHEMBL4680044,SINGLE PROTEIN,Homo sapiens
+Monocarboxylate transporter 4,CHEMBL4802065,SINGLE PROTEIN,Mus musculus
+Monocarboxylate transporter 1/4,CHEMBL4802067,SELECTIVITY GROUP,Homo sapiens
+Monocarboxylate transporter 2/3,CHEMBL4802068,SELECTIVITY GROUP,Homo sapiens
+Cationic amino acid transporter 3,CHEMBL5209633,SINGLE PROTEIN,Homo sapiens
+Sodium- and chloride-dependent creatine transporter 1,CHEMBL5209634,SINGLE PROTEIN,Homo sapiens
+Monocarboxylate transporter 4,CHEMBL5291501,SINGLE PROTEIN,Rattus norvegicus
+Monocarboxylate transporter 3,CHEMBL5291533,SINGLE PROTEIN,Gallus gallus
+GABA transporter 1,CHEMBL1903,SINGLE PROTEIN,Homo sapiens
+Niemann-Pick C1-like protein 1,CHEMBL2027,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance-associated protein 1,CHEMBL2532,SINGLE PROTEIN,Mus musculus
+Glycine transporter 1,CHEMBL4556,SINGLE PROTEIN,Rattus norvegicus
+GABA transporter 3,CHEMBL5208,SINGLE PROTEIN,Homo sapiens
+Excitatory amino acid transporter 1,CHEMBL3085,SINGLE PROTEIN,Homo sapiens
+Glycine transporter 2,CHEMBL3060,SINGLE PROTEIN,Homo sapiens
+Glycine transporter 2,CHEMBL3195,SINGLE PROTEIN,Rattus norvegicus
+Glycine transporter 1,CHEMBL2337,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance-associated protein 1,CHEMBL3004,SINGLE PROTEIN,Homo sapiens
+Excitatory amino acid transporter 3,CHEMBL3113,SINGLE PROTEIN,Rattus norvegicus
+Vesicular glutamate transporter 3,CHEMBL3472,SINGLE PROTEIN,Rattus norvegicus
+GABA transporter 2,CHEMBL4889,SINGLE PROTEIN,Rattus norvegicus
+GABA transporter 1,CHEMBL4054,SINGLE PROTEIN,Rattus norvegicus
+Bile acid transporter,CHEMBL4847,SINGLE PROTEIN,Rattus norvegicus
+Bile acid transporter,CHEMBL5287,SINGLE PROTEIN,Homo sapiens
+L-type amino acid transporter 1,CHEMBL4459,SINGLE PROTEIN,Homo sapiens
+L-type amino acid transporter 3,CHEMBL4148,SINGLE PROTEIN,Homo sapiens
+L-type amino acid transporter 1,CHEMBL4149,SINGLE PROTEIN,Rattus norvegicus
+GABA transporter 1,CHEMBL5445,SINGLE PROTEIN,Mus musculus
+GABA transporter 3,CHEMBL5205,SINGLE PROTEIN,Mus musculus
+GABA transporter 4,CHEMBL3699,SINGLE PROTEIN,Mus musculus
+Mammalian polyamine transporter,CHEMBL613291,UNKNOWN,
+GABA transporter 2,CHEMBL4535,SINGLE PROTEIN,Homo sapiens
+ATP-binding cassette sub-family G member 2,CHEMBL5393,SINGLE PROTEIN,Homo sapiens
+Niemann-Pick C1-like protein 1,CHEMBL5161,SINGLE PROTEIN,Rattus norvegicus
+Sodium/nucleoside cotransporter 1,CHEMBL5551,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 6,CHEMBL5653,SINGLE PROTEIN,Mus musculus
+Solute carrier family 22 member 1,CHEMBL5685,SINGLE PROTEIN,Homo sapiens
+Sodium- and chloride-dependent taurine transporter,CHEMBL5762,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance-associated protein 1,CHEMBL5680,SINGLE PROTEIN,Rattus norvegicus
+Canalicular multispecific organic anion transporter 2,CHEMBL5918,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 12,CHEMBL6120,SINGLE PROTEIN,Homo sapiens
+Niemann-Pick C1-like protein 1,CHEMBL1075296,SINGLE PROTEIN,Mus musculus
+Sodium/nucleoside cotransporter 2,CHEMBL1287613,SINGLE PROTEIN,Mus musculus
+Sodium/nucleoside cotransporter 1,CHEMBL1287615,SINGLE PROTEIN,Rattus norvegicus
+Sodium/nucleoside cotransporter 2,CHEMBL1287616,SINGLE PROTEIN,Rattus norvegicus
+Niemann-Pick C1 protein,CHEMBL1293277,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 8,CHEMBL1641348,SINGLE PROTEIN,Homo sapiens
+QacEdelta1 SMR family efflux pump,CHEMBL1681612,SINGLE PROTEIN,Acinetobacter baumannii
+Multidrug resistance protein mdtK,CHEMBL1681613,SINGLE PROTEIN,Escherichia coli (strain K12)
+Solute carrier family 22 member 2,CHEMBL1743122,SINGLE PROTEIN,Homo sapiens
+Solute carrier organic anion transporter family member 1A2,CHEMBL1743123,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance-associated protein 4,CHEMBL1743128,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 2,CHEMBL1770032,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier organic anion transporter family member 1A1,CHEMBL1781859,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier organic anion transporter family member 1A4,CHEMBL1781860,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier organic anion transporter family member 1B2,CHEMBL1781861,SINGLE PROTEIN,Rattus norvegicus
+Proton-coupled folate transporter,CHEMBL1795188,SINGLE PROTEIN,Homo sapiens
+Natural resistance-associated macrophage protein 2,CHEMBL1932895,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 2,CHEMBL2073662,SINGLE PROTEIN,Mus musculus
+Solute carrier family 22 member 1,CHEMBL2073664,SINGLE PROTEIN,Mus musculus
+Solute carrier family 22 member 8,CHEMBL2073666,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 4,CHEMBL2073667,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 1,CHEMBL2073670,SINGLE PROTEIN,Rattus norvegicus
+Putative organic anion transporter 5,CHEMBL2073675,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 2A1,CHEMBL2073680,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 3,CHEMBL2073684,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 4C1,CHEMBL2073690,SINGLE PROTEIN,Homo sapiens
+Solute carrier organic anion transporter family member 1A5,CHEMBL2073692,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 4,CHEMBL2073694,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 2B1,CHEMBL2073698,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier organic anion transporter family member 4A1,CHEMBL2073701,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier organic anion transporter family member 1A3,CHEMBL2073707,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 7,CHEMBL2073716,SINGLE PROTEIN,Mus musculus
+Solute carrier family 22 member 9,CHEMBL2073721,SINGLE PROTEIN,Homo sapiens
+Organic solute transporter subunit alpha,CHEMBL2073723,SINGLE PROTEIN,Mus musculus
+Organic solute transporter subunit alpha,CHEMBL2073724,SINGLE PROTEIN,Homo sapiens
+Sodium/hydrogen exchanger,CHEMBL2096985,PROTEIN FAMILY,Oryctolagus cuniculus
+Sulfate anion transporter 1,CHEMBL2176770,SINGLE PROTEIN,Mus musculus
+Niemann-Pick C1 protein,CHEMBL2321610,SINGLE PROTEIN,Mus musculus
+AcrB protein,CHEMBL2321620,SINGLE PROTEIN,Klebsiella aerogenes
+Chloroplast coupling factor 1,CHEMBL2366567,PROTEIN COMPLEX,Spinacia oleracea
+Sodium-dependent proline transporter,CHEMBL3317335,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance protein 1/Multidrug resistance associated protein 1,CHEMBL3430875,SELECTIVITY GROUP,Homo sapiens
+Neutral amino acid transporter B(0),CHEMBL3562162,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 13 member 3,CHEMBL3712947,SINGLE PROTEIN,Homo sapiens
+Canalicular multispecific organic anion transporter 1/Solute carrier organic anion transporter family member 1B1,CHEMBL3885536,PROTEIN FAMILY,Homo sapiens
+ABC transporter GrfA,CHEMBL3988546,UNKNOWN,Staphylococcus aureus
+Sodium-dependent phosphate transporter 2,CHEMBL4295806,SINGLE PROTEIN,Homo sapiens
+Sodium-dependent phosphate transporter 1,CHEMBL4295909,SINGLE PROTEIN,Homo sapiens
+Pendrin,CHEMBL4523138,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 26 member 9,CHEMBL4523359,SINGLE PROTEIN,Homo sapiens
+Pendrin,CHEMBL4523483,SINGLE PROTEIN,Mus musculus
+Large neutral amino acids transporter small subunit 1,CHEMBL4523516,SINGLE PROTEIN,Mus musculus
+MexXY/OprM,CHEMBL4523991,PROTEIN COMPLEX,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM14847 / LMG 12228 / 1C / PRS 101 / PAO1)
+Multidrug resistance-associated protein 1,CHEMBL4739692,SINGLE PROTEIN,Canis lupus familiaris
+Sphingosine-1-phosphate transporter SPNS2,CHEMBL5169183,SINGLE PROTEIN,Mus musculus
+Multidrug resistance protein HmrM,CHEMBL5169226,SINGLE PROTEIN,Haemophilus influenzae
+Solute carrier family 23 member 1,CHEMBL5209632,SINGLE PROTEIN,Homo sapiens
+Sulfonylurea receptor 2,CHEMBL1971,SINGLE PROTEIN,Homo sapiens
+Thiazide-sensitive sodium-chloride cotransporter,CHEMBL1876,SINGLE PROTEIN,Homo sapiens
+Sulfonylurea receptor 1,CHEMBL2071,SINGLE PROTEIN,Homo sapiens
+Sodium-(potassium)-chloride cotransporter 2,CHEMBL1874,SINGLE PROTEIN,Homo sapiens
+Carnitine/acylcarnitine translocase,CHEMBL2173,SINGLE PROTEIN,Rattus norvegicus
+Renal sodium-dependent phosphate transport protein 1,CHEMBL3398,SINGLE PROTEIN,Rattus norvegicus
+Sodium/hydrogen exchanger 1,CHEMBL2865,SINGLE PROTEIN,Oryctolagus cuniculus
+Sodium/hydrogen exchanger 2,CHEMBL3770,SINGLE PROTEIN,Oryctolagus cuniculus
+P-glycoprotein 1,CHEMBL3467,SINGLE PROTEIN,Mus musculus
+Sodium/calcium exchanger 1,CHEMBL4076,SINGLE PROTEIN,Homo sapiens
+Peroxisomal carnitine O-octanoyltransferase,CHEMBL2206,SINGLE PROTEIN,Homo sapiens
+Sodium/hydrogen exchanger 1,CHEMBL2781,SINGLE PROTEIN,Homo sapiens
+Sodium/hydrogen exchanger 1,CHEMBL2577,SINGLE PROTEIN,Rattus norvegicus
+Sodium/hydrogen exchanger 2,CHEMBL3133,SINGLE PROTEIN,Homo sapiens
+Carnitine acetylase,CHEMBL3184,SINGLE PROTEIN,Homo sapiens
+P-glycoprotein 1,CHEMBL4302,SINGLE PROTEIN,Homo sapiens
+Sulfonylurea receptor 2,CHEMBL3244,SINGLE PROTEIN,Rattus norvegicus
+P-glycoprotein 3,CHEMBL2573,SINGLE PROTEIN,Mus musculus
+Sodium/hydrogen exchanger 3,CHEMBL3273,SINGLE PROTEIN,Homo sapiens
+Sodium/hydrogen exchanger 5,CHEMBL3058,SINGLE PROTEIN,Homo sapiens
+Sodium/glucose cotransporter 1,CHEMBL5374,SINGLE PROTEIN,Rattus norvegicus
+Sodium/glucose cotransporter 2,CHEMBL4316,SINGLE PROTEIN,Rattus norvegicus
+Sodium/glucose cotransporter 1,CHEMBL4979,SINGLE PROTEIN,Homo sapiens
+Sodium/glucose cotransporter 2,CHEMBL3884,SINGLE PROTEIN,Homo sapiens
+Synaptic vesicle glycoprotein 2A,CHEMBL1998,SINGLE PROTEIN,Homo sapiens
+Synaptic vesicle protein 2a,CHEMBL4381,SINGLE PROTEIN,Rattus norvegicus
+Sodium/calcium exchanger 1,CHEMBL3494,SINGLE PROTEIN,Cavia porcellus
+Fatty acid transport protein 2,CHEMBL4326,SINGLE PROTEIN,Homo sapiens
+Fatty acid transport protein 4,CHEMBL4327,SINGLE PROTEIN,Homo sapiens
+Fatty acid transport protein 5,CHEMBL5196,SINGLE PROTEIN,Homo sapiens
+Cycloheximide resistance protein,CHEMBL5336,SINGLE PROTEIN,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+Quinolone resistance protein norA,CHEMBL5114,SINGLE PROTEIN,Staphylococcus aureus
+Solute carrier family 22 member 20,CHEMBL5269,SINGLE PROTEIN,Mus musculus
+Niemann-Pick C1-like 1 protein,CHEMBL5302,SINGLE PROTEIN,Macaca mulatta
+Plasmid efflux fluoroquinolone,CHEMBL5308,SINGLE PROTEIN,Escherichia coli
+Na(+)/H(+) antiporter nhaA,CHEMBL5478,SINGLE PROTEIN,Escherichia coli K-12
+CmeA,CHEMBL5013,SINGLE PROTEIN,Campylobacter jejuni
+Canalicular multispecific organic anion transporter 1,CHEMBL5748,SINGLE PROTEIN,Homo sapiens
+IgG receptor FcRn large subunit p51,CHEMBL5966,SINGLE PROTEIN,Homo sapiens
+Cytochrome c oxidase subunit 1,CHEMBL6011,SINGLE PROTEIN,Ovis aries
+Cytochrome b5,CHEMBL6170,SINGLE PROTEIN,Homo sapiens
+Cytochrome c oxidase subunit 1,CHEMBL6173,SINGLE PROTEIN,Homo sapiens
+Cytochrome c oxidase subunit 2,CHEMBL6174,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 28 member 3,CHEMBL5707,SINGLE PROTEIN,Homo sapiens
+"Tetracycline resistance protein, class B",CHEMBL5821,SINGLE PROTEIN,Escherichia coli
+Bile salt export pump,CHEMBL6020,SINGLE PROTEIN,Homo sapiens
+V-type proton ATPase subunit B,CHEMBL6106,SINGLE PROTEIN,Saccharomyces cerevisiae S288c
+ATP synthase subunit a,CHEMBL1075074,SINGLE PROTEIN,Escherichia coli K-12
+Sodium/glucose cotransporter 2,CHEMBL1075302,SINGLE PROTEIN,Mus musculus
+Sodium- and chloride-dependent glycine transporter 1,CHEMBL1075303,SINGLE PROTEIN,Mus musculus
+Multidrug resistance protein 1,CHEMBL1075229,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 5,CHEMBL1075238,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 12,CHEMBL1075239,SINGLE PROTEIN,Rattus norvegicus
+Multidrug resistance protein 1a,CHEMBL1075135,SINGLE PROTEIN,Rattus norvegicus
+Transitional endoplasmic reticulum ATPase,CHEMBL1075145,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 12 member 5,CHEMBL1075108,SINGLE PROTEIN,Rattus norvegicus
+Multidrug resistance protein CDR2,CHEMBL1163105,SINGLE PROTEIN,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+Multidrug resistance protein CDR1,CHEMBL1163109,SINGLE PROTEIN,Candida albicans
+Cytochrome b-245 heavy chain,CHEMBL1287627,SINGLE PROTEIN,Homo sapiens
+NADPH oxidase 1,CHEMBL1287628,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 12 member 2,CHEMBL1615383,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 12 member 5,CHEMBL1615384,SINGLE PROTEIN,Homo sapiens
+ATP-binding cassette sub-family A member 1,CHEMBL1641361,SINGLE PROTEIN,Mus musculus
+Cytochrome b-c1 complex subunit 7,CHEMBL1671612,SINGLE PROTEIN,Homo sapiens
+Acriflavine resistance protein B,CHEMBL1681614,SINGLE PROTEIN,Escherichia coli (strain K12)
+Pleiotropic ABC efflux transporter of multiple drugs,CHEMBL1697658,SINGLE PROTEIN,Saccharomyces cerevisiae S288c
+General amino acid permease AGP1,CHEMBL1741178,SINGLE PROTEIN,Saccharomyces cerevisiae S288c
+Multidrug and toxin extrusion protein 1,CHEMBL1743126,SINGLE PROTEIN,Homo sapiens
+Multidrug and toxin extrusion protein 2,CHEMBL1743127,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance protein 3,CHEMBL1743129,SINGLE PROTEIN,Homo sapiens
+Sodium/myo-inositol cotransporter 2,CHEMBL1744524,SINGLE PROTEIN,Homo sapiens
+Low affinity sodium-glucose cotransporter,CHEMBL1770047,SINGLE PROTEIN,Homo sapiens
+ATP-binding cassette sub-family B member 5,CHEMBL1772928,SINGLE PROTEIN,Homo sapiens
+NADPH oxidase 5,CHEMBL1926497,SINGLE PROTEIN,Homo sapiens
+ATP-binding cassette sub-family C member 8,CHEMBL1944490,SINGLE PROTEIN,Rattus norvegicus
+Benomyl/methotrexate resistance protein,CHEMBL2007621,SINGLE PROTEIN,Candida albicans
+Multidrug resistance-associated protein 5,CHEMBL2046258,SINGLE PROTEIN,Homo sapiens
+Long-chain fatty acid transport protein 1,CHEMBL2052038,SINGLE PROTEIN,Homo sapiens
+Long-chain fatty acid transport protein 1,CHEMBL2052039,SINGLE PROTEIN,Mus musculus
+Natural resistance-associated macrophage protein 1,CHEMBL2052040,SINGLE PROTEIN,Homo sapiens
+Multidrug resistance-associated protein 6,CHEMBL2073661,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 5,CHEMBL2073665,SINGLE PROTEIN,Mus musculus
+Bile salt export pump,CHEMBL2073674,SINGLE PROTEIN,Rattus norvegicus
+Canalicular multispecific organic anion transporter 1,CHEMBL2073676,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 22 member 11,CHEMBL2073677,SINGLE PROTEIN,Homo sapiens
+Canalicular multispecific organic anion transporter 1,CHEMBL2073681,SINGLE PROTEIN,Mus musculus
+Canalicular multispecific organic anion transporter 2,CHEMBL2073682,SINGLE PROTEIN,Rattus norvegicus
+Canalicular multispecific organic anion transporter 2,CHEMBL2073683,SINGLE PROTEIN,Mus musculus
+Multidrug resistance-associated protein 7,CHEMBL2073687,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 22 member 5,CHEMBL2073693,SINGLE PROTEIN,Homo sapiens
+Bile salt export pump,CHEMBL2073695,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 1A1,CHEMBL2073696,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 1A4,CHEMBL2073700,SINGLE PROTEIN,Mus musculus
+ATP-binding cassette sub-family C member 11,CHEMBL2073702,SINGLE PROTEIN,Homo sapiens
+ATP-binding cassette sub-family G member 2,CHEMBL2073705,SINGLE PROTEIN,Mus musculus
+Solute carrier organic anion transporter family member 4C1,CHEMBL2073710,SINGLE PROTEIN,Rattus norvegicus
+Multidrug resistance-associated protein 4,CHEMBL2073711,SINGLE PROTEIN,Rattus norvegicus
+Multidrug resistance-associated protein 6,CHEMBL2073712,SINGLE PROTEIN,Rattus norvegicus
+Sodium/bile acid cotransporter,CHEMBL2073713,SINGLE PROTEIN,Mus musculus
+Solute carrier family 22 member 21,CHEMBL2073715,SINGLE PROTEIN,Mus musculus
+P-glycoprotein 1 and 3 (MDR1a/MDR1b),CHEMBL2111404,PROTEIN FAMILY,Mus musculus
+Kv channel-interacting protein 2,CHEMBL2189164,SINGLE PROTEIN,Homo sapiens
+"Carnitine O-palmitoyltransferase 1, muscle isoform",CHEMBL2216739,SINGLE PROTEIN,Homo sapiens
+Mitochondrial carnitine/acylcarnitine carrier protein,CHEMBL2216740,SINGLE PROTEIN,Homo sapiens
+Sodium/iodide cotransporter,CHEMBL2331047,SINGLE PROTEIN,Rattus norvegicus
+ATP-binding cassette sub-family A member 1,CHEMBL2362986,SINGLE PROTEIN,Homo sapiens
+Cytochrome b-245 light chain,CHEMBL2366457,SINGLE PROTEIN,Bos taurus
+Cytochrome b6-f complex subunit 4,CHEMBL2366461,SINGLE PROTEIN,Spinacia oleracea
+Multidrug and toxin extrusion protein 1,CHEMBL3091264,SINGLE PROTEIN,Mus musculus
+Glucose-6-phosphate translocase,CHEMBL3217398,SINGLE PROTEIN,Homo sapiens
+NAD-dependent protein deacetylase sirtuin-2,CHEMBL3232690,SINGLE PROTEIN,Rattus norvegicus
+Kinesin-like protein KIF1A,CHEMBL3308914,SINGLE PROTEIN,Homo sapiens
+ATP synthase subunit alpha,CHEMBL3308987,SINGLE PROTEIN,Bacillus sp.
+ATP synthase subunit beta,CHEMBL3308988,SINGLE PROTEIN,Bacillus sp.
+ATP synthase subunit c,CHEMBL3308989,SINGLE PROTEIN,Bacillus sp.
+Probable phospholipid ABC transporter-binding protein MlaB,CHEMBL3309025,SINGLE PROTEIN,Escherichia coli (strain K12)
+Multidrug resistance protein Pgh1,CHEMBL3308931,SINGLE PROTEIN,Plasmodium falciparum
+General amino-acid permease GAP1,CHEMBL3308953,SINGLE PROTEIN,Saccharomyces cerevisiae
+Solute carrier family 40 member 1,CHEMBL3392948,SINGLE PROTEIN,Homo sapiens
+UDP-galactose translocator,CHEMBL3430867,SINGLE PROTEIN,Homo sapiens
+ATP-binding cassette sub-family G member 2,CHEMBL3509585,SINGLE PROTEIN,Rattus norvegicus
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,CHEMBL3585236,SINGLE PROTEIN,Rattus norvegicus
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,CHEMBL3585237,SINGLE PROTEIN,Rattus norvegicus
+Sodium- and chloride-dependent glycine transporter 1,CHEMBL3638333,SINGLE PROTEIN,Bos taurus
+ADP/ATP translocase 2,CHEMBL3709670,SINGLE PROTEIN,Homo sapiens
+Solute carrier family 13 member 2,CHEMBL3712851,SINGLE PROTEIN,Homo sapiens
+Ecto-NOX disulfide-thiol exchanger 2,CHEMBL3714292,SINGLE PROTEIN,Homo sapiens
+"Sodium/potassium/calcium exchanger 6, mitochondrial",CHEMBL3763001,SINGLE PROTEIN,Homo sapiens
+Sodium-dependent phosphate transport protein 1,CHEMBL3769298,SINGLE PROTEIN,Homo sapiens
+Sodium-dependent phosphate transport protein 2A,CHEMBL3769299,SINGLE PROTEIN,Homo sapiens
+Sodium-dependent phosphate transport protein 3,CHEMBL3769300,SINGLE PROTEIN,Homo sapiens
+Sodium bicarbonate cotransporter 3,CHEMBL3774290,SINGLE PROTEIN,Homo sapiens
+Sodium bicarbonate cotransporter 3,CHEMBL3774291,SINGLE PROTEIN,Mus musculus
+Sodium/hydrogen exchanger 3,CHEMBL3879842,SINGLE PROTEIN,Rattus norvegicus
+Solute carrier family 12 member 2/member 5,CHEMBL3885641,PROTEIN COMPLEX,Homo sapiens
+Sodium/hydrogen exchanger 2,CHEMBL3886122,SINGLE PROTEIN,Rattus norvegicus
+Transitional endoplasmic reticulum ATPase,CHEMBL3988606,SINGLE PROTEIN,Mus musculus
+ADP/ATP translocase 3,CHEMBL4105854,SINGLE PROTEIN,Homo sapiens
+Multidrug export protein MepA,CHEMBL4295596,SINGLE PROTEIN,Staphylococcus aureus (strain NCTC 8325)
+Sodium-dependent phosphate transport protein 2B,CHEMBL4295685,SINGLE PROTEIN,Homo sapiens
+Mitochondrial pyruvate carrier 2,CHEMBL4295686,SINGLE PROTEIN,Homo sapiens
+"Phosphate carrier protein, mitochondrial",CHEMBL4295795,SINGLE PROTEIN,Homo sapiens
+Sodium-dependent phosphate transport protein 2C,CHEMBL4295882,SINGLE PROTEIN,Mus musculus
+Sodium-dependent phosphate transport protein 2C,CHEMBL4295898,SINGLE PROTEIN,Rattus norvegicus
+Sodium-dependent phosphate transport protein 2C,CHEMBL4295900,SINGLE PROTEIN,Homo sapiens
+Sodium-dependent phosphate transport protein 2A,CHEMBL4296024,SINGLE PROTEIN,Rattus norvegicus
+Band 3 anion transport protein,CHEMBL4523166,SINGLE PROTEIN,Mus musculus
+Chloride anion exchanger,CHEMBL4523223,SINGLE PROTEIN,Homo sapiens
+Chloride anion exchanger,CHEMBL4523503,SINGLE PROTEIN,Mus musculus
+MexAB/OprM,CHEMBL4523990,PROTEIN COMPLEX,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM14847 / LMG 12228 / 1C / PRS 101 / PAO1)
+Sialin,CHEMBL4630859,SINGLE PROTEIN,Homo sapiens
+ABC-type xenobiotic transporter,CHEMBL4739687,SINGLE PROTEIN,Canis lupus familiaris
+Potassium-transporting ATPase,CHEMBL2095173,PROTEIN COMPLEX,Homo sapiens
+Sodium/potassium-transporting ATPase,CHEMBL2095186,PROTEIN COMPLEX GROUP,Homo sapiens
+Potassium-transporting ATPase,CHEMBL2095199,PROTEIN COMPLEX,Rattus norvegicus
+Potassium-transporting ATPase,CHEMBL2095228,PROTEIN COMPLEX,Sus scrofa
+Sarcoplasmic/endoplasmic reticulum calcium ATPase,CHEMBL3831290,PROTEIN FAMILY,Homo sapiens
+Importin subunit beta-1/Snurportin-1,CHEMBL3885594,PROTEIN-PROTEIN INTERACTION,Homo sapiens
+Sodium/potassium-transporting ATPase subunit alpha-2/alpha-3,CHEMBL3885640,PROTEIN COMPLEX,Rattus norvegicus
+Na+/K+ ATPase alpha-1/beta-1,CHEMBL4106147,PROTEIN COMPLEX,Rattus norvegicus
+Na+/K+ ATPase alpha-2/beta-1,CHEMBL4106148,PROTEIN COMPLEX,Rattus norvegicus
+Na+/K+ ATPase alpha-3/beta-1,CHEMBL4106149,PROTEIN COMPLEX,Rattus norvegicus
+N+/K+ ATPase alpha-4/beta-1,CHEMBL4106165,PROTEIN COMPLEX,Rattus norvegicus
+N+/K+ ATPase alpha-4/beta-3,CHEMBL4106166,PROTEIN COMPLEX,Rattus norvegicus
+Synaptic vesicle protein,CHEMBL4665594,PROTEIN FAMILY,Homo sapiens
+Sodium/potassium-transporting ATPase alpha-1 chain,CHEMBL1807,SINGLE PROTEIN,Homo sapiens
+Sodium/potassium-transporting ATPase alpha-4 chain,CHEMBL2485,SINGLE PROTEIN,Rattus norvegicus
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 3,CHEMBL2401,SINGLE PROTEIN,Homo sapiens
+Potassium-transporting ATPase beta chain,CHEMBL4771,SINGLE PROTEIN,Rattus norvegicus
+Vacuolar ATP synthase subunit S1,CHEMBL4790,SINGLE PROTEIN,Homo sapiens
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,CHEMBL3136,SINGLE PROTEIN,Homo sapiens
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,CHEMBL3901,SINGLE PROTEIN,Homo sapiens
+"Vacuolar ATP synthase subunit B, kidney isoform",CHEMBL3217,SINGLE PROTEIN,Homo sapiens
+"Vacuolar H(+)-transporting ATPase 116 kDa subunit, a1 isoform",CHEMBL2683,SINGLE PROTEIN,Gallus gallus
+Potassium-transporting ATPase alpha chain 1,CHEMBL3919,SINGLE PROTEIN,Sus scrofa
+Sodium/potassium-transporting ATPase alpha-1 chain,CHEMBL4131,SINGLE PROTEIN,Sus scrofa
+Sodium/potassium-transporting ATPase alpha-1 chain,CHEMBL3010,SINGLE PROTEIN,Rattus norvegicus
+Potassium-transporting ATPase beta chain,CHEMBL2538,SINGLE PROTEIN,Sus scrofa
+Potassium-transporting ATPase alpha chain 2,CHEMBL2933,SINGLE PROTEIN,Homo sapiens
+Sodium/potassium-transporting ATPase alpha-1 chain,CHEMBL4838,SINGLE PROTEIN,Canis lupus familiaris
+Sarcoplasmic/endoplasmic reticulum calcium ATP-ase,CHEMBL4693,SINGLE PROTEIN,Oryctolagus cuniculus
+"V-type proton ATPase subunit B, brain isoform",CHEMBL5641,SINGLE PROTEIN,Homo sapiens
+Cytochrome c oxidase subunit 2,CHEMBL1250404,SINGLE PROTEIN,Ovis aries
+Snq2p,CHEMBL1697660,SINGLE PROTEIN,Saccharomyces cerevisiae (strain Lalvin EC1118 / Prise de mousse)(Baker's yeast)
+"ATP synthase subunit beta, mitochondrial",CHEMBL2062350,SINGLE PROTEIN,Homo sapiens
+"ATP synthase subunit alpha, mitochondrial",CHEMBL2062351,SINGLE PROTEIN,Homo sapiens
+Sulfonylurea receptors; K-ATP channels,CHEMBL2095152,PROTEIN COMPLEX GROUP,Homo sapiens
+"Sulfonylurea receptor 2, Kir6.2",CHEMBL2095198,PROTEIN COMPLEX,Homo sapiens
+"Sulfonylurea receptor 1, Kir6.2",CHEMBL2096972,PROTEIN COMPLEX,Homo sapiens
+"ATP synthase subunit alpha, mitochondrial",CHEMBL2176795,SINGLE PROTEIN,Rattus norvegicus
+Kir6.2/SUR1,CHEMBL3038487,PROTEIN COMPLEX,Rattus norvegicus
+Fe(3+)-pyochelin receptor,CHEMBL3097981,SINGLE PROTEIN,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228)
+Metalloreductase STEAP1,CHEMBL3712956,SINGLE PROTEIN,Homo sapiens
+Protein translocase subunit SecA 1,CHEMBL3832949,SINGLE PROTEIN,Staphylococcus aureus (strain NCTC 8325)
+Protein translocase subunit SecA 2,CHEMBL3832955,SINGLE PROTEIN,Staphylococcus aureus (strain NCTC 8325)
+Multidrug efflux ATP-binding/permease protein Rv0194,CHEMBL3879861,SINGLE PROTEIN,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+GTP-binding nuclear protein Ran/Importin subunit beta-1/Snurportin-1,CHEMBL3885569,PROTEIN COMPLEX,Homo sapiens
+Kv channel-interacting protein 2/Potassium voltage-gated channel subfamily D member 3,CHEMBL3885598,PROTEIN COMPLEX,Homo sapiens
+V-type proton ATPase catalytic subunit A,CHEMBL4295756,SINGLE PROTEIN,Homo sapiens
+Sodium/potassium-transporting ATPase,CHEMBL4524015,PROTEIN COMPLEX GROUP,Sus scrofa
+Sulfonylurea receptors; K-ATP channels,CHEMBL4524131,PROTEIN COMPLEX GROUP,Rattus norvegicus
+SLC34A2-ROS1,CHEMBL4680045,CHIMERIC PROTEIN,Homo sapiens
+Membrane transport protein XK,CHEMBL2176802,SINGLE PROTEIN,Mus musculus
+Outer membrane FadL protein,CHEMBL3309022,SINGLE PROTEIN,Escherichia coli (strain K12)
+Protein transport protein Sec16A,CHEMBL4295654,SINGLE PROTEIN,Homo sapiens
+General vesicular transport factor p115,CHEMBL4295669,SINGLE PROTEIN,Homo sapiens
+Protein transport protein Sec23A,CHEMBL4295827,SINGLE PROTEIN,Homo sapiens
+Sodium-dependent phosphate transport protein 2A,CHEMBL4295855,SINGLE PROTEIN,Mus musculus
+Protein transport protein Sec31A,CHEMBL4879465,SINGLE PROTEIN,Mus musculus
+Sodium-dependent phosphate transport protein 2B,CHEMBL5169199,SINGLE PROTEIN,Rattus norvegicus
+Copper-transporting ATPase 1,CHEMBL5291564,SINGLE PROTEIN,Homo sapiens
+Copper-transporting ATPase 1,CHEMBL5291565,SINGLE PROTEIN,Mus musculus
+Transient receptor potential cation channel subfamily V member 6,CHEMBL1628465,SINGLE PROTEIN,Homo sapiens
+Transient receptor potential cation channel subfamily V member 5,CHEMBL1628474,SINGLE PROTEIN,Homo sapiens
+Cytochrome P450 3A4/3A5,CHEMBL2111472,PROTEIN FAMILY,Homo sapiens
+Platelet glycoprotein 4,CHEMBL2163174,SINGLE PROTEIN,Rattus norvegicus
+Vacuolar protein sorting-associated protein 4B,CHEMBL2311229,SINGLE PROTEIN,Homo sapiens
+Cytochrome P450 3A,CHEMBL2364675,PROTEIN FAMILY,Homo sapiens
+Cytochrome P450 3A,CHEMBL3637781,PROTEIN FAMILY,Mus musculus
+Patatin-like phospholipase domain-containing protein 2,CHEMBL3822353,SINGLE PROTEIN,Homo sapiens
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,CHEMBL4523144,SINGLE PROTEIN,Mus musculus
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,CHEMBL4523404,SINGLE PROTEIN,Mus musculus
+Gamma-aminobutyric acid receptor-associated protein-like 2,CHEMBL4879445,SINGLE PROTEIN,Homo sapiens
+Cytochrome P450 3A5,CHEMBL3019,SINGLE PROTEIN,Homo sapiens
+Cytochrome P450 3A4,CHEMBL340,SINGLE PROTEIN,Homo sapiens
+Cytochrome P450 3A1,CHEMBL3323,SINGLE PROTEIN,Rattus norvegicus
+Cytochrome P450 3A2,CHEMBL3324,SINGLE PROTEIN,Rattus norvegicus
+Cytochrome P450 3A6,CHEMBL1743541,SINGLE PROTEIN,Oryctolagus cuniculus
+Cytochrome P450 3A12,CHEMBL1907982,SINGLE PROTEIN,Canis familiaris
+Cytochrome P450 3A11,CHEMBL1907984,SINGLE PROTEIN,Mus musculus
+Cytochrome P450 3A9,CHEMBL3430866,SINGLE PROTEIN,Rattus norvegicus
+Ubiquitin-conjugating enzyme E2 D1,CHEMBL4105766,SINGLE PROTEIN,Homo sapiens
+Cytochrome P450,CHEMBL4523986,PROTEIN FAMILY,Homo sapiens
