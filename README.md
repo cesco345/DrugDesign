@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a series of Jupyter notebooks and supporting files for Quantitative Structure-Activity Relationship (QSAR) modeling of BACE1 inhibitors, with a focus on applications in Alzheimer's disease research. The work is inspired by and builds upon the TechOpenCADD project of the Volkamer Lab.
+This repository contains a series of Jupyter notebooks and supporting files for applying computational modeling to BACE1 inhibitors, with a focus on applications in Alzheimer's disease research. The work is inspired by and builds upon the TechOpenCADD project of the Volkamer Lab.
 
 ## Disclaimer
 
@@ -10,7 +10,7 @@ This repository is for educational purposes only. The content can be used in any
 
 ## Project Overview
 
-Over the course of 14 chapters, we have explored various aspects of QSAR modeling and its application to neurological disease research, particularly focusing on BACE1 inhibitors for Alzheimer's disease. Key topics covered include:
+Over the course of 14 chapters, we have explored various aspects of machine learning, data science and how we can apply them to neurological disease research, particularly focusing on BACE1 inhibitors for Alzheimer's disease. Key topics covered include:
 
 1. Data retrieval and preparation from ChEMBL
 2. Compound filtering based on Lipinski's rule of five
