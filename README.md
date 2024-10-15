@@ -41,7 +41,7 @@ This work builds upon and is inspired by numerous sources:
 - Volkamer et al., Prediction, Analysis, and Comparison of Active Sites (2018), book chapter in Applied Chemoinformatics: Achievements and Future Opportunities, Wiley
 - Numerous publications on neural networks, EGFR kinase, and QSAR modeling (see individual notebooks for specific citations)
 
-### Authors and Contributors
+### Authors of Consulted Research Papers
 
 - Dr. Ashfaq Ahmad (Project lead and modifications)
 - Oliver Nagel, CADD Seminars, 2017, Charité/FU Berlin
